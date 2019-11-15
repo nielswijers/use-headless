@@ -1,6 +1,6 @@
 {
   "name": "@use-headless/menu",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "typings": "./typings",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "cbe6bd18022e4d568f8dd12e8b27340bf72d12bb"
 }
